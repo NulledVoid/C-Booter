@@ -1,0 +1,11 @@
+c:\users\static\documents\visual studio 2015\Projects\RIPBooter\RIPBooter\bin\Debug\RIPBooter.exe.config
+c:\users\static\documents\visual studio 2015\Projects\RIPBooter\RIPBooter\bin\Debug\RIPBooter.exe
+c:\users\static\documents\visual studio 2015\Projects\RIPBooter\RIPBooter\bin\Debug\RIPBooter.pdb
+c:\users\static\documents\visual studio 2015\Projects\RIPBooter\RIPBooter\bin\Debug\MetroFramework.dll
+c:\users\static\documents\visual studio 2015\Projects\RIPBooter\RIPBooter\bin\Debug\Teen.dll
+c:\users\static\documents\visual studio 2015\Projects\RIPBooter\RIPBooter\obj\Debug\RIPBooter.csprojResolveAssemblyReference.cache
+c:\users\static\documents\visual studio 2015\Projects\RIPBooter\RIPBooter\obj\Debug\RIPBooter.Booter.resources
+c:\users\static\documents\visual studio 2015\Projects\RIPBooter\RIPBooter\obj\Debug\RIPBooter.Properties.Resources.resources
+c:\users\static\documents\visual studio 2015\Projects\RIPBooter\RIPBooter\obj\Debug\RIPBooter.csproj.GenerateResource.Cache
+c:\users\static\documents\visual studio 2015\Projects\RIPBooter\RIPBooter\obj\Debug\RIPBooter.exe
+c:\users\static\documents\visual studio 2015\Projects\RIPBooter\RIPBooter\obj\Debug\RIPBooter.pdb
